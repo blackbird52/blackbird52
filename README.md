@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning Rust and Distributed Storage System
 - 🖋 I’m writing [@zhangxinze.com](http://zhangxinze.com)
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: xinzezhang@outlook.com
+- 📫 How to reach me: storagezhang@outlook.com
 
 📈 My GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=blackbird52)
+![](https://github-readme-stats.vercel.app/api?username=storagezhang)
