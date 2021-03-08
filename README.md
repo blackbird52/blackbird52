@@ -11,6 +11,6 @@
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: storagezhang@outlook.com
 
-📈 My GitHub Stats
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=storagezhang&show_icons=true&theme=algolia&count_private=true&include_all_commits=true)
 
-![](https://github-readme-stats.vercel.app/api?username=storagezhang)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=storagezhang&layout=compact&theme=algolia)
