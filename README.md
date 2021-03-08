@@ -12,8 +12,8 @@
 - 📫 How to reach me: storagezhang@outlook.com
 
 <a href="https://github.com/storagezhang/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=storagezhang&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" height=170/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=storagezhang&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" height=160/>
 </a>
 <a href="https://github.com/storagezhang/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=storagezhang&layout=compact&theme=algolia&hide=java" height=170/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=storagezhang&layout=compact&theme=algolia&hide=java" height=160/>
 </a>
