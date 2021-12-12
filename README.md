@@ -10,9 +10,9 @@
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: zh.xinze@gmail.com
 
-<a href="https://github.com/storagezhang/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=storagezhang&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" height=160/>
+<a href="https://github.com/debug-zhang/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debug-zhang&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" height=160/>
 </a>
-<a href="https://github.com/storagezhang/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=storagezhang&layout=compact&theme=algolia&hide=java" height=160/>
+<a href="https://github.com/debug-zhang/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debug-zhang&layout=compact&theme=algolia&hide=java" height=160/>
 </a>
